@@ -6,11 +6,11 @@ In the project directory, you can run:
 
 ### `yarn build-css:develop`
 
-Will generate a file called styles.css, which is the complete build of tailwindcss.
+Will generate a file called `styles.css`, which is the complete build of tailwindcss.
 
 ### `yarn build-css:production`
 
-Will generate a file called styles.css, which is the purged build of tailwindcss.
+Will generate a file called `styles.css`, which is the purged build of tailwindcss.
 
 ### `yarn format`
 
