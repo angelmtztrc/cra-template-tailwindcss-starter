@@ -1,7 +1,7 @@
 {
   "name": "cra-template-tailwindcss-starter",
   "version": "1.0.0",
-  "description": "CRA Template with Tailwind CSS",
+  "description": "create-react-app template with tailwindcss",
   "main": "template.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
