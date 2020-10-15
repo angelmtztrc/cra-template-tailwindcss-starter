@@ -4,6 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn build-css:develop`
+
+Will generate a file called styles.css, which is the complete build of tailwindcss.
+
+### `yarn build-css:production`
+
+Will generate a file called styles.css, which is the purged build of tailwindcss.
+
+### `yarn format`
+
+This script will format the code, and reorder the tailwindcss classes in your js / jsx files.
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
