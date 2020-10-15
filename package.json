@@ -1,6 +1,6 @@
 {
   "name": "cra-template-tailwindcss-starter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "create-react-app template with tailwindcss",
   "main": "template.json",
   "scripts": {
