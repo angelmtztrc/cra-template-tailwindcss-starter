@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-tailwindcss-starter",
+  "version": "1.0.0",
+  "description": "CRA Template with Tailwind CSS",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angel-codes/cra-template-tailwindcss-starter.git"
+  },
+  "keywords": ["react", "template", "create-react-app", "tailwindcss"],
+  "author": "Angel Martinez",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": ["template", "template.json"],
+  "bugs": {
+    "url": "https://github.com/angel-codes/cra-template-tailwindcss-starter/issues"
+  },
+  "homepage": "https://github.com/angel-codes/cra-template-tailwindcss-starter#readme"
+}
