@@ -6,7 +6,7 @@ module.exports = {
     defaultLineHeights: true,
     standardFontWeights: true
   },
-  purge: [],
+  purge: ['src/**/*.js', 'src/**/*.jsx', 'public/*.html'],
   theme: {
     extend: {
       colors: {
