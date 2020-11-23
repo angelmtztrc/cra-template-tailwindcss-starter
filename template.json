@@ -1,16 +1,15 @@
 {
   "package": {
     "dependencies": {
-      "@testing-library/jest-dom": "^5.11.6",
-      "@testing-library/react": "^11.2.0",
-      "@testing-library/user-event": "^12.2.2",
-      "tailwindcss": "^2.0.1",
-      "cross-env": "^7.0.2",
-      "autoprefixer": "^10.0.2",
-      "postcss": "^8.1.7",
-      "postcss-cli": "^8.3.0",
-      "prettier": "^2.1.2",
-      "prettier-plugin-tailwind": "^2.2.0"
+      "@testing-library/jest-dom": "latest",
+      "@testing-library/react": "latest",
+      "@testing-library/user-event": "latest",
+      "tailwindcss": "2.x",
+      "cross-env": "7.x",
+      "autoprefixer": "10.x",
+      "postcss": "^8.x",
+      "prettier": "^2.x",
+      "prettier-plugin-tailwind": "^2.x"
     },
     "scripts": {
       "build-css:develop": "tailwindcss build tailwind.css -o src/styles.css",
