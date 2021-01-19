@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angel-codes/cra-template-tailwindcss-starter.git"
+    "url": "git+https://github.com/angelmtztrc/cra-template-tailwindcss-starter.git"
   },
   "keywords": [
     "react",
@@ -26,7 +26,7 @@
     "template.json"
   ],
   "bugs": {
-    "url": "https://github.com/angel-codes/cra-template-tailwindcss-starter/issues"
+    "url": "https://github.com/angelmtztrc/cra-template-tailwindcss-starter/issues"
   },
-  "homepage": "https://github.com/angel-codes/cra-template-tailwindcss-starter#readme"
+  "homepage": "https://github.com/angelmtztrc/cra-template-tailwindcss-starter#readme"
 }
