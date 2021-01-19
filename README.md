@@ -17,18 +17,6 @@ yarn create react-app you-app-name --template tailwindcss-starter
 ## Extra
 
 - You can completely edit the `tailwind.config.js` file to add your custom values
-- To generate the tailwindcss development file you must run the following command:
-  ```sh
-  npm run build-css:develop
-  # or
-  yarn build-css:develop
-  ```
-- To generate the tailwindcss production file you must run the following command:
-  ```sh
-  npm run build-css:production
-  # or
-  yarn build-css:production
-  ```
 - This template includes a plugin to organize the classes in your files with the help of prettier. You only need to run:
   ```sh
   npm run format
@@ -45,6 +33,7 @@ All the important libraries that the project use.
 - postcss
 - cross-env
 - prettier / prettier-plugin-tailwind
+- craco
 
 ## Contributing
 
