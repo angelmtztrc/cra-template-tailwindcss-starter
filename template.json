@@ -13,8 +13,9 @@
       "prettier-plugin-tailwind": "^2.x"
     },
     "scripts": {
-      "build-css:develop": "tailwindcss build tailwind.css -o src/styles.css",
-      "build-css:production": "cross-env NODE_ENV=production tailwindcss build tailwind.css -o src/styles.css",
+      "start": "craco start",
+      "build": "craco build",
+      "test": "craco test",
       "format": "prettier --write \"./src/**/*.{js,jsx}\""
     },
     "eslintConfig": {
